@@ -1,4 +1,4 @@
-<h1 align="center">Hi there everyone👋, I'm Jayes</h1>
+<h1 align="center">Hi there everyone👋, I'm Akila</h1>
 <h3 align="center">A Passionate Hardcore Coder from India</h3>
 
 - 🔭 I’m currently working on [DSA Visualizer](https://github.com/Jayeskumar/DSA-Visualizer)
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DSA Full Stack Development and AI**
 
-- 📫 How to reach me **js@bigq.in**
+- 📫 How to reach me **akilabujji29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
